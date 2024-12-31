@@ -124,6 +124,7 @@ function App() {
       this is the dev1 line...(d2) <br />
       hello this is dev1 branch...hello how are you
       <Comtable />
+      this is the dev2 line,,,
       <div>
         <CommonTable rows={rows} columns={columns} />
       </div>
