@@ -120,7 +120,7 @@ function App() {
 
   return (
     <>
-      this is the dev1 line... <br />
+      this is the dev1 line...(d1) <br />
       hello this is dev1 branch...hello how are you
       <Comtable />
       <div>
