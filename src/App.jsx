@@ -120,7 +120,8 @@ function App() {
 
   return (
     <>
-      this is the dev1 line...(d1) <br />
+      this is the data in dev2 branch line here this is the dev1 line...(d1){" "}
+      <br />
       this is the dev1 line...(d2) <br />
       hello this is dev1 branch...hello how are you
       <Comtable />
